@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityProject</string>
+    <string name="newText">Welcome to new Activity</string>
+</resources>
